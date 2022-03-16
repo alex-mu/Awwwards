@@ -7,12 +7,12 @@
 }
 .login, #site{
     text-decoration: none;
-    color:white;
+    color:rgb(0, 0, 0);
 }
 
 .login:hover, #site:hover{
     text-decoration: none;
-    color:white;
+    color:rgb(0, 0, 0);
 }
 .brand{
     font-weight: bolder;
