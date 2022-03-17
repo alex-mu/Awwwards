@@ -5,7 +5,7 @@ This is an app built to allow users to post their projects and other users can r
 Alexander Mureithi Ndegwa
 
 ## Live Link
-clink this link to view the site
+clink this link slawwwards.herokuapp.com/ to view the site
 
 ## User Stories
 1. A user can view posted projects and their details.
