@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'awwwards',
     'myawwards',
+    'crispy_forms'
 ]
 
 MIDDLEWARE = [
